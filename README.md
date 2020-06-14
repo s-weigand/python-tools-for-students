@@ -7,6 +7,8 @@
 
 # python-tools-for-students
 
+colour
+
 This projects aims to teach students the basics of how to use
 **powerful Python Tools** for the day to day life at university:
 
