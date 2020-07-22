@@ -80,5 +80,7 @@ jobs:
           python -m pip install -U pip
           python -m pip install -U -c constraints.txt -r requirements_dev.txt
       - name: Run tests
+        shell: bash
         run: |
+          ls -la
           pytest --nbval
