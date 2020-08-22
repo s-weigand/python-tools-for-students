@@ -26,7 +26,7 @@ Another bonus is that ``conda`` isn't just a python package manager like
 Yet another bonus of ``conda`` is that it has a build pipeline in place,
 which allows to install all packages from binary (no compiling needed from
 your side, which at times can be pretty time consuming).
-Download the installer from the official website of  `Anaconda`_, follow
+Download the installer from the official `Anaconda website`_, follow
 the instructions and you will be good to go.
 
 .. note::
@@ -111,7 +111,7 @@ If you don't want to install conda, this `Python installation guide`_ can guide
 you through the process of getting the pure CPython Interpreter.
 
 .. _Python installation guide: https://docs.python-guide.org/starting/installation/
-.. _Anaconda: https://www.anaconda.com/distribution/
+.. _Anaconda website: https://www.anaconda.com/distribution/
 .. _node.js: https://nodejs.org/en/
 .. _latex: https://www.latex-project.org/
 .. _environment: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
@@ -193,4 +193,3 @@ demo at `mybinder.org`_.
     your progress if you didn't download the files you edited/created.
 
 .. _mybinder.org: https://mybinder.org/v2/gh/students-teach-students/python-tools-for-students/master?urlpath=lab/tree/material
-
